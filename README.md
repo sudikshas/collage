@@ -1,4 +1,4 @@
-## Sudiksha's Collage
+
 ![Image](small_profile.jpeg)
 
 ### About Me
