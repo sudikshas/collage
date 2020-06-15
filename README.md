@@ -1,7 +1,7 @@
 # My Collage
 ## Hello! My name is Sudiksha.
 
-<img src="small_profile.jpeg" width="180" height= "220"/>
+<img src="small_profile.jpeg" width="195" height= "220"/>
 
 ### About Me
 - I am a rising senior at University of California, San Diego with a major in Data Science and minor in Cognitive Science.
