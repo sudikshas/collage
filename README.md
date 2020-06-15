@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## My Collage
 
-You can use the [editor on GitHub](https://github.com/sudikshas/collage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+- I am a rising senior at University of California, San Diego with a major in Data Science and minor in Cognitive Science.
+- I was born and raised in the Bay Area but my parents are from South India.
+
+### What am I interested in?
+- I love dancing! I learned classical Indian dance for many years and also was involved with UCSD’s competitive HFD dance team my freshmen year. I also love watching a lot of hip-hop dance videos in my free time.
+- Playing the piano
+- I love spending time outdoors and traveling. My family and I like to go on a lot of hikes and we love going on long road trips to visit new places.
+- Basketball 🏀  I used to play a lot growing up and now I still like to watch the Warriors play.
+
+### Fun Facts:
+- My favorite time of year is Halloween and I love watching horror movies with my friends and going to haunted attractions.
+- Favorite TV shows: The 100, Sherlock, Merlin, How I Met Your Mother
+
+
+I love working with and meeting different people because I think everyone has really unique experiences and there is always something I can learn from that. I am really excited to be able to work at IBM this summer and improve my knowledge and gain hands-on experience of working in the tech industry. 
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sudikshas/collage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
