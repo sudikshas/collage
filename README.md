@@ -1,6 +1,5 @@
 
 ## Hello! My name is Sudiksha.
-<br>
 
 ### About Me
 - I am a rising senior at University of California, San Diego with a major in Data Science and minor in Cognitive Science.
