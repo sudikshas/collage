@@ -1,5 +1,5 @@
 ## Sudiksha's Collage
-![Image](profile.jpeg)
+![Image](small_profile.jpeg)
 
 ### About Me
 - I am a rising senior at University of California, San Diego with a major in Data Science and minor in Cognitive Science.
