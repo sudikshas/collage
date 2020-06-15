@@ -1,4 +1,5 @@
-Sudiksha's Collage
+# My Collage
+## Hello! My name is Sudiksha.
 
 <img src="small_profile.jpeg" width="180" height= "200"/>
 
