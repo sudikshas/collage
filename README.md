@@ -17,7 +17,7 @@
 - My favorite time of year is Halloween and I love watching horror movies with my friends and going to haunted attractions.
 - Favorite TV shows: The 100, Sherlock, Merlin, How I Met Your Mother
 
-I love working with and meeting different people because I think everyone has really unique experiences and there is always something I can learn from that. I am really excited to be able to work at IBM this summer and improve my knowledge and gain hands-on experience of working in the tech industry. 
+#### I love working with and meeting different people because I think everyone has really unique experiences and there is always something I can learn from that. I am really excited to be able to work at IBM this summer and improve my knowledge and gain hands-on experience of working in the tech industry. 
 
 
 
