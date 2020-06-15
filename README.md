@@ -1,5 +1,5 @@
 
-<img src="small_profile.jpeg" width="150" height= "200"/>
+<img src="small_profile.jpeg" width="180" height= "200"/>
 
 ### About Me
 - I am a rising senior at University of California, San Diego with a major in Data Science and minor in Cognitive Science.
