@@ -1,5 +1,6 @@
 
 ![Image](small_profile.jpeg = 100x100)
+<img src="small_profile.jpeg" width="100" height= "100"/>
 
 ### About Me
 - I am a rising senior at University of California, San Diego with a major in Data Science and minor in Cognitive Science.
