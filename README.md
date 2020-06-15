@@ -1,7 +1,5 @@
-## Sudi's
-### Hello! My name is Sudiksha.
 
-<img src="small_profile.jpeg" width="195" height= "220"/>
+### Hello! My name is Sudiksha.
 
 ### About Me
 - I am a rising senior at University of California, San Diego with a major in Data Science and minor in Cognitive Science.
@@ -17,7 +15,7 @@
 - My favorite time of year is Halloween and I love watching horror movies with my friends and going to haunted attractions.
 - Favorite TV shows: The 100, Sherlock, Merlin, How I Met Your Mother
 
-#### I love working with and meeting different people because I think everyone has really unique experiences and there is always something I can learn from that. I am really excited to be able to work at IBM this summer and improve my knowledge and gain hands-on experience of working in the tech industry. 
+I love working with and meeting different people because I think everyone has really unique experiences and there is always something I can learn from that. I am really excited to be able to work at IBM this summer and improve my knowledge and gain hands-on experience of working in the tech industry. 
 
 
 
