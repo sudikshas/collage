@@ -1,5 +1,5 @@
 ## My Collage
-
+![Image](profile.jpeg)
 ### About Me
 - I am a rising senior at University of California, San Diego with a major in Data Science and minor in Cognitive Science.
 - I was born and raised in the Bay Area but my parents are from South India.
